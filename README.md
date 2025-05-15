@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dnileshmohan@gmail.com**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nilesh-dokuparthi-8a7910226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-dokuparthi-8a7910226" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h2100031703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2100031703" height="30" width="40" /></a>
